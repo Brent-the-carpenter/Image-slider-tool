@@ -1,0 +1,26 @@
+{
+  "name": "@brent-the-carpenter/nav-bar-tool",
+  "version": "0.0.2",
+  "description": "This is just a simple nav-bar for me to use easily in my projects.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brent-the-carpenter/Nav-Bar-tool.git"
+  },
+  "author": "Brent-The-Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brent-the-carpenter/Nav-Bar-tool/issues"
+  },
+  "homepage": "https://github.com/Brent-the-carpenter/Nav-Bar-tool#readme",
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
