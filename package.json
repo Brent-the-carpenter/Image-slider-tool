@@ -1,7 +1,7 @@
 {
-  "name": "@brent-the-carpenter/nav-bar-tool",
-  "version": "0.0.2",
-  "description": "This is just a simple nav-bar for me to use easily in my projects.",
+  "name": "@brent-the-carpenter/image-slider",
+  "version": "0.0.1",
+  "description": "This is just a simple image slider for me to use easily in my projects.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Brent-the-carpenter/Nav-Bar-tool.git"
+    "url": "https://github.com/Brent-the-carpenter/Image-slider-tool.git"
   },
   "author": "Brent-The-Carpenter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Brent-the-carpenter/Nav-Bar-tool/issues"
+    "url": "https://github.com/Brent-the-carpenter/Image-slider-tool.git"
   },
-  "homepage": "https://github.com/Brent-the-carpenter/Nav-Bar-tool#readme",
+  "homepage": "",
   "devDependencies": {
     "css-loader": "^6.10.0",
     "style-loader": "^3.3.4",
